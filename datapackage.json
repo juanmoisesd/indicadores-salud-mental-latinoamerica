@@ -1,0 +1,36 @@
+{
+  "name": "indicadores-salud-mental-latinoamerica",
+  "title": "Indicadores de Salud Mental en Latinoamérica",
+  "description": "Dataset de indicadores de salud mental en países latinoamericanos.",
+  "version": "1.0.0",
+  "licenses": [
+    {
+      "name": "CC0-1.0",
+      "title": "CC0 1.0 Universal",
+      "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "keywords": [
+    "salud mental",
+    "latinoamerica",
+    "indicadores",
+    "epidemiologia"
+  ],
+  "contributors": [
+    {
+      "title": "Juan Moisés de la Serna Tuya",
+      "email": "jmsernatuya@gmail.com",
+      "role": "author",
+      "organization": "Universidad Internacional de La Rioja (UNIR)",
+      "orcid": "https://orcid.org/0000-0002-8401-8018"
+    }
+  ],
+  "sources": [
+    {
+      "title": "GitHub Repository",
+      "path": "https://github.com/juanmoisesd/indicadores-salud-mental-latinoamerica"
+    }
+  ],
+  "homepage": "https://github.com/juanmoisesd/indicadores-salud-mental-latinoamerica",
+  "image": "https://juanmoisesd.github.io/indicadores-salud-mental-latinoamerica/preview.png"
+}
